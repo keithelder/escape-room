@@ -1,8 +1,8 @@
-# Rocket Exchange Escape Room
+# Engineering Escape Room
 
 ## Description
 
-Rocket Exchange Escape Room is a high-speed coding challenge where up to 3-5 (four is preferred) team members work together to "escape" by completing specific data-related tasks. _Speed is the name of the game_—the fastest team wins!
+Escape Room is a high-speed coding challenge where up to 3-5 (four is preferred) team members work together to "escape" by completing specific data-related tasks. _Speed is the name of the game_—the fastest team wins!
 
 ## The Challenge
 
@@ -10,9 +10,9 @@ Rocket Exchange Escape Room is a high-speed coding challenge where up to 3-5 (fo
 
 Your task is to open a CSV file, parse the data, and complete the following objectives:
 
-1. Calculate and print the *average* loan amount for loans with a status of "Pending."
-2. Calculate and print the *average* credit score for loans with a status of "Pending."
-3. Retrieve and print the *address* of the loan number: LN00084.
+1. Calculate and print the _average_ loan amount for loans with a status of "Pending."
+2. Calculate and print the _average_ credit score for loans with a status of "Pending."
+3. Retrieve and print the _address_ of the loan number: LN00084.
 
 This challenge is all about how fast you can write code to retrieve and process the necessary data. Use any tools, libraries, or programming techniques at your disposal to complete it as quickly as possible!
 
