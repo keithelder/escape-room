@@ -1,6 +1,6 @@
-# 🚀 Rocket Exchange Escape Room 🚀
+# 🚀 Engineering Escape Room 🚀
 
-Welcome to the **Rocket Exchange Escape Room** GitHub repository! This isn’t your average coding task—it's an **adrenaline-pumping, time-sensitive, team-based coding challenge** designed to test your skills under pressure. Are you ready to dive in? 💻🔍
+Welcome to the **Escape Room** GitHub repository! This isn’t your average coding task—it's an **adrenaline-pumping, time-sensitive, team-based coding challenge** designed to test your skills under pressure. Are you ready to dive in? 💻🔍
 
 ---
 
