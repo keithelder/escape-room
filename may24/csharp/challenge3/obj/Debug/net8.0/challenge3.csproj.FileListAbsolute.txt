@@ -1,0 +1,14 @@
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/obj/Debug/net8.0/challenge3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/obj/Debug/net8.0/challenge3.AssemblyInfoInputs.cache
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/obj/Debug/net8.0/challenge3.AssemblyInfo.cs
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/obj/Debug/net8.0/challenge3.csproj.CoreCompileInputs.cache
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/bin/Debug/net8.0/challenge3
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/bin/Debug/net8.0/challenge3.deps.json
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/bin/Debug/net8.0/challenge3.runtimeconfig.json
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/bin/Debug/net8.0/challenge3.dll
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/bin/Debug/net8.0/challenge3.pdb
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/obj/Debug/net8.0/challenge3.dll
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/obj/Debug/net8.0/refint/challenge3.dll
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/obj/Debug/net8.0/challenge3.pdb
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/obj/Debug/net8.0/challenge3.genruntimeconfig.cache
+/Users/kelder/dev/rx-escape-room/csharp/challenge3/obj/Debug/net8.0/ref/challenge3.dll

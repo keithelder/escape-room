@@ -1,0 +1,101 @@
+Loan_ID,Borrower_Name,Loan_Amount,Interest_Rate (%),Loan_Term (years),Monthly_Installment ($),Loan_Status,Property_Type,Address,City,State,Credit_Score,Closing_Date
+LN00001,Borrower_1,224734,2.92,15,1303.77,Pending,Single Family,4674 Willow Dr,New York,TX,737,1/1/24 0:00
+LN00002,Borrower_2,100113,4.06,30,1642.73,Rejected,Townhouse,1319 Oak Ln,New York,NY,766,1/8/24 0:00
+LN00003,Borrower_3,390491,3.26,30,2063.98,Pending,Townhouse,4146 Spruce Blvd,Atlanta,IL,731,1/15/24 0:00
+LN00004,Borrower_4,369356,3.42,30,1952.58,Approved,Townhouse,8555 Pine Blvd,Los Angeles,AZ,627,1/22/24 0:00
+LN00005,Borrower_5,495249,3.42,20,2709.2,Approved,Multi-Family,5605 Aspen St,Phoenix,NY,644,1/29/24 0:00
+LN00006,Borrower_6,154550,4.46,30,2892.3,Approved,Multi-Family,6313 Aspen Dr,Houston,GA,727,2/5/24 0:00
+LN00007,Borrower_7,377730,3.93,20,2982.99,Pending,Townhouse,5141 Birch St,New York,CA,777,2/12/24 0:00
+LN00008,Borrower_8,160533,3.95,20,1643.5,Approved,Townhouse,4329 Spruce Dr,Houston,NY,846,2/19/24 0:00
+LN00009,Borrower_9,300907,4.57,30,2598.33,Pending,Condo,8330 Cedar Ln,Dallas,IL,677,2/26/24 0:00
+LN00010,Borrower_10,186236,3.16,20,2886.12,Pending,Townhouse,4677 Cedar Dr,Los Angeles,IL,751,3/4/24 0:00
+LN00011,Borrower_11,219827,4.22,15,2878.68,Pending,Condo,3686 Pine Dr,Houston,TX,651,3/11/24 0:00
+LN00012,Borrower_12,147017,4.78,15,1253.63,Pending,Townhouse,4961 Birch Rd,Los Angeles,NY,603,3/18/24 0:00
+LN00013,Borrower_13,365786,3.9,15,2806.98,Pending,Condo,4077 Cherry Ln,Houston,IL,693,3/25/24 0:00
+LN00014,Borrower_14,178461,4.22,15,2514.16,Rejected,Multi-Family,1276 Birch Blvd,Dallas,AZ,631,4/1/24 0:00
+LN00015,Borrower_15,144996,4.72,20,2874.51,Rejected,Condo,4435 Maple Ave,Dallas,GA,752,4/8/24 0:00
+LN00016,Borrower_16,424257,4.72,20,1670.3,Approved,Townhouse,2301 Cherry Rd,Los Angeles,CA,777,4/15/24 0:00
+LN00017,Borrower_17,131624,3.95,15,2797.87,Pending,Single Family,1724 Oak St,Houston,IL,678,4/22/24 0:00
+LN00018,Borrower_18,195064,3.33,20,2017.46,Pending,Single Family,3782 Elm Rd,Chicago,NY,669,4/29/24 0:00
+LN00019,Borrower_19,368286,3.16,30,1823.04,Rejected,Condo,1001 Cedar St,Dallas,AZ,805,5/6/24 0:00
+LN00020,Borrower_20,242026,4.12,15,2313.03,Approved,Condo,7106 Oak St,New York,GA,743,5/13/24 0:00
+LN00021,Borrower_21,445049,3.34,30,2148.49,Rejected,Single Family,1902 Cedar Ln,Houston,CA,665,5/20/24 0:00
+LN00022,Borrower_22,318429,4.08,30,1286.89,Approved,Single Family,6616 Oak St,Dallas,NY,795,5/27/24 0:00
+LN00023,Borrower_23,494178,3.72,20,1620.54,Pending,Townhouse,6148 Cedar Ave,Phoenix,GA,645,6/3/24 0:00
+LN00024,Borrower_24,472991,4.57,30,1818.19,Approved,Condo,9433 Aspen Dr,Dallas,AZ,769,6/10/24 0:00
+LN00025,Borrower_25,349000,3.63,20,2676.32,Rejected,Multi-Family,2195 Pine Ln,Los Angeles,CA,653,6/17/24 0:00
+LN00026,Borrower_26,180901,4.6,20,2107.46,Rejected,Condo,800 Pine Dr,Houston,AZ,753,6/24/24 0:00
+LN00027,Borrower_27,355436,3.43,15,2776.64,Pending,Single Family,8875 Maple St,New York,NY,750,7/1/24 0:00
+LN00028,Borrower_28,280728,2.7,15,1779.78,Rejected,Multi-Family,3666 Spruce Blvd,Los Angeles,NY,697,7/8/24 0:00
+LN00029,Borrower_29,375756,4.24,30,1312.6,Pending,Multi-Family,6297 Spruce St,Chicago,TX,843,7/15/24 0:00
+LN00030,Borrower_30,379533,4.93,15,1132.88,Rejected,Single Family,3962 Pine Ave,Dallas,TX,747,7/22/24 0:00
+LN00031,Borrower_31,440816,3.19,30,2178.18,Rejected,Condo,9180 Birch Ave,New York,AZ,649,7/29/24 0:00
+LN00032,Borrower_32,363226,2.78,30,2707.44,Approved,Condo,7253 Aspen St,Dallas,TX,711,8/5/24 0:00
+LN00033,Borrower_33,444535,4.36,20,2844.56,Pending,Multi-Family,8220 Elm St,New York,TX,737,8/12/24 0:00
+LN00034,Borrower_34,213750,2.6,15,2444.13,Approved,Townhouse,2310 Spruce Ave,Chicago,CA,699,8/19/24 0:00
+LN00035,Borrower_35,344269,3.91,15,2403.26,Rejected,Condo,4125 Birch Rd,Dallas,GA,783,8/26/24 0:00
+LN00036,Borrower_36,315498,3.84,15,2249.84,Pending,Multi-Family,9926 Aspen St,Atlanta,GA,820,9/2/24 0:00
+LN00037,Borrower_37,438957,4.9,30,1002.99,Pending,Condo,6471 Maple Ave,Dallas,IL,721,9/9/24 0:00
+LN00038,Borrower_38,297996,3.11,20,1017.8,Rejected,Multi-Family,3224 Maple Blvd,Atlanta,IL,785,9/16/24 0:00
+LN00039,Borrower_39,483497,2.84,20,2134.08,Approved,Townhouse,7605 Spruce Ln,Los Angeles,NY,752,9/23/24 0:00
+LN00040,Borrower_40,308593,3.69,15,1075.02,Pending,Condo,7300 Cedar Rd,Atlanta,NY,659,9/30/24 0:00
+LN00041,Borrower_41,410223,3.98,30,2240.17,Approved,Condo,9090 Oak Ln,New York,AZ,816,10/7/24 0:00
+LN00042,Borrower_42,395875,4.79,15,1122.44,Approved,Single Family,3933 Oak Ave,Chicago,CA,818,10/14/24 0:00
+LN00043,Borrower_43,439291,4.14,15,2829.56,Approved,Multi-Family,9453 Maple Rd,Los Angeles,CA,725,10/21/24 0:00
+LN00044,Borrower_44,295941,3.81,30,1728.36,Pending,Multi-Family,6853 Cherry Ave,Houston,TX,677,10/28/24 0:00
+LN00045,Borrower_45,417277,4.71,20,2758.86,Rejected,Multi-Family,9612 Elm Ave,Atlanta,CA,655,11/4/24 0:00
+LN00046,Borrower_46,402677,3.31,15,2739.14,Approved,Single Family,7165 Cedar Rd,Atlanta,IL,663,11/11/24 0:00
+LN00047,Borrower_47,390182,2.51,30,1008.58,Rejected,Single Family,2600 Pine Dr,Atlanta,IL,745,11/18/24 0:00
+LN00048,Borrower_48,347365,2.9,15,1232.47,Rejected,Townhouse,5982 Spruce Ln,New York,NY,828,11/25/24 0:00
+LN00049,Borrower_49,410567,3.53,15,2132.92,Pending,Single Family,4109 Cherry Blvd,Chicago,IL,741,12/2/24 0:00
+LN00050,Borrower_50,416881,3.27,30,1801.83,Rejected,Condo,8928 Pine St,Chicago,GA,706,12/9/24 0:00
+LN00051,Borrower_51,450713,3.9,15,1695.61,Rejected,Condo,4987 Spruce Blvd,Los Angeles,GA,637,12/16/24 0:00
+LN00052,Borrower_52,204773,4.77,15,2347.97,Pending,Condo,5934 Willow Ave,New York,IL,816,12/23/24 0:00
+LN00053,Borrower_53,409305,4.6,30,1520.72,Pending,Multi-Family,2271 Pine Blvd,Dallas,GA,678,12/30/24 0:00
+LN00054,Borrower_54,428135,2.65,20,1625.61,Pending,Single Family,6894 Pine Ave,Houston,IL,732,1/6/25 0:00
+LN00055,Borrower_55,158005,4.49,15,2444.4,Pending,Townhouse,5220 Cedar Blvd,Houston,TX,773,1/13/25 0:00
+LN00056,Borrower_56,446687,3.38,15,2622.07,Approved,Single Family,2318 Birch Rd,Atlanta,IL,824,1/20/25 0:00
+LN00057,Borrower_57,476078,3.47,20,1234.7,Rejected,Condo,2345 Willow St,Atlanta,TX,653,1/27/25 0:00
+LN00058,Borrower_58,219882,4.18,30,2481.24,Pending,Townhouse,6946 Pine Blvd,New York,AZ,820,2/3/25 0:00
+LN00059,Borrower_59,293867,3.72,20,1232.51,Rejected,Condo,938 Maple St,Los Angeles,GA,601,2/10/25 0:00
+LN00060,Borrower_60,427181,3.43,20,2512.82,Approved,Condo,4348 Elm Dr,Houston,TX,652,2/17/25 0:00
+LN00061,Borrower_61,122794,4.21,30,1181.54,Rejected,Multi-Family,6045 Elm Ave,Chicago,GA,655,2/24/25 0:00
+LN00062,Borrower_62,272231,4.13,20,1766.62,Pending,Multi-Family,1411 Willow Ln,Phoenix,GA,648,3/3/25 0:00
+LN00063,Borrower_63,196774,4.59,15,1218.27,Rejected,Multi-Family,4171 Aspen Rd,Phoenix,IL,713,3/10/25 0:00
+LN00064,Borrower_64,496718,3.81,20,1526.73,Rejected,Multi-Family,2922 Aspen Blvd,Houston,NY,668,3/17/25 0:00
+LN00065,Borrower_65,453305,3.31,15,1432.01,Approved,Townhouse,7237 Cedar Ave,Dallas,NY,611,3/24/25 0:00
+LN00066,Borrower_66,275613,2.52,15,2118.98,Approved,Single Family,7272 Pine Ave,Chicago,CA,755,3/31/25 0:00
+LN00067,Borrower_67,489079,4.08,20,1879.14,Pending,Townhouse,6138 Oak Blvd,Los Angeles,AZ,659,4/7/25 0:00
+LN00068,Borrower_68,422522,4.89,15,1876.01,Rejected,Multi-Family,6647 Cedar Ave,New York,NY,660,4/14/25 0:00
+LN00069,Borrower_69,224540,4.46,20,1883.07,Approved,Townhouse,1610 Spruce Rd,Chicago,GA,717,4/21/25 0:00
+LN00070,Borrower_70,147912,4.72,20,1759.37,Approved,Townhouse,2358 Birch Ave,Chicago,NY,824,4/28/25 0:00
+LN00071,Borrower_71,323891,4.97,30,2309.3,Rejected,Townhouse,1321 Cherry St,Phoenix,NY,696,5/5/25 0:00
+LN00072,Borrower_72,354434,2.56,15,1111.61,Pending,Single Family,7452 Cedar Blvd,Los Angeles,TX,661,5/12/25 0:00
+LN00073,Borrower_73,325981,4.89,15,2056.13,Pending,Townhouse,7877 Elm Dr,Chicago,GA,814,5/19/25 0:00
+LN00074,Borrower_74,178355,3.89,20,1476.59,Pending,Single Family,1079 Cherry Ln,Los Angeles,NY,648,5/26/25 0:00
+LN00075,Borrower_75,391858,3.16,30,2689.49,Rejected,Single Family,1219 Cedar Dr,Chicago,TX,767,6/2/25 0:00
+LN00076,Borrower_76,241994,3.32,30,2476.53,Pending,Condo,4374 Aspen St,Houston,GA,641,6/9/25 0:00
+LN00077,Borrower_77,483518,3.4,15,1318.38,Pending,Single Family,5397 Birch Blvd,Chicago,NY,804,6/16/25 0:00
+LN00078,Borrower_78,368547,4.69,20,1068.04,Approved,Townhouse,1552 Cherry Ln,New York,CA,686,6/23/25 0:00
+LN00079,Borrower_79,449001,3.88,15,1295.15,Approved,Condo,651 Willow Ln,Los Angeles,GA,758,6/30/25 0:00
+LN00080,Borrower_80,447974,3.02,15,2946.85,Approved,Townhouse,3795 Maple Ln,New York,TX,628,7/7/25 0:00
+LN00081,Borrower_81,358154,2.95,15,1083.06,Pending,Townhouse,1932 Spruce St,New York,NY,725,7/14/25 0:00
+LN00082,Borrower_82,362128,3.63,15,2601.89,Pending,Condo,1628 Oak Blvd,Phoenix,CA,608,7/21/25 0:00
+LN00083,Borrower_83,112072,3.62,20,1943.02,Pending,Multi-Family,4241 Oak St,Atlanta,NY,828,7/28/25 0:00
+LN00084,Borrower_84,334158,4.85,20,1278.02,Pending,Single Family,"My voice is my passport, verify.",Ripley,MS,785,8/4/25 0:00
+LN00085,Borrower_85,110602,4.57,15,1879.51,Pending,Single Family,3961 Willow Dr,Atlanta,AZ,671,8/11/25 0:00
+LN00086,Borrower_86,214522,3.31,15,2460.63,Pending,Single Family,8620 Birch Ave,New York,IL,840,8/18/25 0:00
+LN00087,Borrower_87,187975,4.85,30,2114.55,Approved,Multi-Family,2659 Maple Ave,New York,IL,628,8/25/25 0:00
+LN00088,Borrower_88,461447,3.4,30,1462.92,Pending,Condo,6165 Spruce Rd,Houston,IL,700,9/1/25 0:00
+LN00089,Borrower_89,175699,4.72,20,2146.12,Approved,Townhouse,8856 Elm Blvd,Los Angeles,TX,621,9/8/25 0:00
+LN00090,Borrower_90,361815,4.7,20,1996.2,Approved,Single Family,4976 Cherry Ave,Dallas,IL,794,9/15/25 0:00
+LN00091,Borrower_91,111544,4.52,30,1946.4,Approved,Condo,1830 Elm Ave,Phoenix,GA,716,9/22/25 0:00
+LN00092,Borrower_92,212609,2.5,30,1172.93,Pending,Multi-Family,7947 Spruce Dr,Chicago,CA,818,9/29/25 0:00
+LN00093,Borrower_93,424025,3.77,20,1949.51,Approved,Townhouse,7428 Spruce St,Dallas,NY,754,10/6/25 0:00
+LN00094,Borrower_94,490513,4.26,20,1651.15,Pending,Townhouse,3954 Oak Ln,Los Angeles,IL,709,10/13/25 0:00
+LN00095,Borrower_95,367856,4.2,15,1377.13,Approved,Single Family,782 Willow Blvd,Chicago,IL,614,10/20/25 0:00
+LN00096,Borrower_96,157954,4.53,20,2326.75,Rejected,Condo,8633 Birch St,Houston,GA,729,10/27/25 0:00
+LN00097,Borrower_97,371630,3.45,30,1955.99,Rejected,Multi-Family,6766 Cedar Blvd,Chicago,AZ,601,11/3/25 0:00
+LN00098,Borrower_98,360764,3.88,30,2812.56,Rejected,Condo,7029 Cherry St,Phoenix,AZ,704,11/10/25 0:00
+LN00099,Borrower_99,475703,2.95,15,1818.69,Rejected,Condo,6505 Cedar Ave,New York,GA,742,11/17/25 0:00
+LN00100,Borrower_100,176339,4.75,30,1151.34,Rejected,Single Family,8661 Willow Rd,Atlanta,CA,794,11/24/25 0:00

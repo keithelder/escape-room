@@ -1,0 +1,14 @@
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/bin/Debug/net8.0/challenge1
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/bin/Debug/net8.0/challenge1.deps.json
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/bin/Debug/net8.0/challenge1.runtimeconfig.json
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/bin/Debug/net8.0/challenge1.dll
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/bin/Debug/net8.0/challenge1.pdb
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/obj/Debug/net8.0/challenge1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/obj/Debug/net8.0/challenge1.AssemblyInfoInputs.cache
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/obj/Debug/net8.0/challenge1.AssemblyInfo.cs
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/obj/Debug/net8.0/challenge1.csproj.CoreCompileInputs.cache
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/obj/Debug/net8.0/challenge1.dll
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/obj/Debug/net8.0/refint/challenge1.dll
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/obj/Debug/net8.0/challenge1.pdb
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/obj/Debug/net8.0/challenge1.genruntimeconfig.cache
+/Users/kelder/dev/rx-escape-room/csharp/challenge1/obj/Debug/net8.0/ref/challenge1.dll

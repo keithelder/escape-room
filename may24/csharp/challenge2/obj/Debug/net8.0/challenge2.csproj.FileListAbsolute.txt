@@ -1,0 +1,14 @@
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/bin/Debug/net8.0/challenge2
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/bin/Debug/net8.0/challenge2.deps.json
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/bin/Debug/net8.0/challenge2.runtimeconfig.json
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/bin/Debug/net8.0/challenge2.dll
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/bin/Debug/net8.0/challenge2.pdb
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/obj/Debug/net8.0/challenge2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/obj/Debug/net8.0/challenge2.AssemblyInfoInputs.cache
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/obj/Debug/net8.0/challenge2.AssemblyInfo.cs
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/obj/Debug/net8.0/challenge2.csproj.CoreCompileInputs.cache
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/obj/Debug/net8.0/challenge2.dll
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/obj/Debug/net8.0/refint/challenge2.dll
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/obj/Debug/net8.0/challenge2.pdb
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/obj/Debug/net8.0/challenge2.genruntimeconfig.cache
+/Users/kelder/dev/rx-escape-room/csharp/challenge2/obj/Debug/net8.0/ref/challenge2.dll
