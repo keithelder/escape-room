@@ -1,8 +1,8 @@
-# Rocket Exchange Escape Room
+# Escape Room May
 
 ## Description
 
-Rocket Exchange Escape Room is a game where up to 4 team members are locked in an area. The only way to "escape" is to code their way out.
+Escape Room is a game where up to 4 team members are locked in an area. The only way to "escape" is to code their way out.
 
 ## The Challenges
 
